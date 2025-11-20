@@ -14,8 +14,9 @@
 ## Option 3: Anaconda Virtual Enviorment from Command Prompt
 - Install Anaconda
 - Go to repository directory
-- Run conda create --name ir python=3.11 (answer yes too al questions)
+- Run conda create --n IR python=3.11 (answer yes to all questions)
 - Run conda activate ir
+- (Notice:When installing cripy there is an error.)
 
 ---
 
