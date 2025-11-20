@@ -16,7 +16,7 @@
 - Go to repository directory
 - Run conda create --n IR python=3.11 (answer yes to all questions)
 - Run conda activate ir
-- (Notice:When installing cripy there is an error.)
+- (Notice:When installing cirpy there is an error that failed to build wheel.)
 
 ---
 
